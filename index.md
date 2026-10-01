@@ -8,7 +8,6 @@ Verantwortlich für die App Flex Planner:
 
 Patrick Herwede - PHE Workflows  
 pherwede@gmail.com 
-[Gegebenenfalls weitere gesetzlich erforderliche Kontaktangaben]
 
 ## 2. Zweck der App
 
